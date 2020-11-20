@@ -5,5 +5,6 @@ int main(){
 	printf("Commit 3");
 
 	printf("branch1");
+	printf("Commit m4")
 	return 0;
 }
